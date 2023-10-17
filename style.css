@@ -1,0 +1,36 @@
+.title {
+
+background-color: white;
+color: black;
+font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
+
+}
+
+.subtext {
+
+    background-color: white;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 200;
+    
+}
+
+.list {
+
+background-color: white;
+color: black;
+font-size: 25px;
+font-family: 'Times New Roman', Times, serif;
+
+}
+
+
+
+* {
+
+background-color: rgb(162, 13, 13);
+color: white;
+opacity: 30;
+}
