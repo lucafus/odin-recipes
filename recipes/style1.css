@@ -1,0 +1,24 @@
+
+
+.description {
+
+background-color: white;
+color: black;
+font-family: 'Times New Roman', Times, serif;
+font-size: 25px;
+    }
+
+    .titles {
+
+        background-color: white;
+        color: black;
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+    * {
+
+        background-color: rgb(162, 13, 13);
+        color: white;
+        
+        }
