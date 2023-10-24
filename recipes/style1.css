@@ -8,17 +8,50 @@ font-family: 'Times New Roman', Times, serif;
 font-size: 25px;
     }
 
-    .titles {
+.titles {
 
         background-color: white;
         color: black;
         font-size: 25px;
         font-weight: bold;
+        padding: 5px;
+        margin: 5px;
+        border-radius: 5px;
+       
+       
     }
 
-    * {
+* {
 
         background-color: rgb(162, 13, 13);
         color: white;
         opacity: 30;
         }
+
+
+
+
+
+ul {
+
+    font-size: 20px
+}
+
+ol {
+
+    font-size: 20px;
+}
+
+a {
+    background-color: white;
+    display: block;
+    width: 100;
+    font-size: 17px;
+    font-weight:bold;
+    outline: none;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
